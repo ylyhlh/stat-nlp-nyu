@@ -1,6 +1,6 @@
 ---
 name:
    first: Slav
-   last: Petrov
+   last: Student
 email: slav@petrovi.de
-leaderboard: SlavPetrov
+leaderboard: Baseline
