@@ -1,7 +1,7 @@
 ---
 name:
-   first: Slav
-   last: Student
-email: slav@petrovi.de
-leaderboard: SlavStudent
+   first: Hao
+   last: Liu
+email: haoliu@nyu.edu
+leaderboard: HaoLiu
 
