@@ -1797,8 +1797,8 @@ them	PRP
 in	IN
 his	PRP$
 book	NN
-Cocaine	NNP
-Politics	NNPS
+Cocaine	NN
+Politics	NNS
 .	.
 
 ...	:
@@ -2718,7 +2718,7 @@ Follow	VB
 The	DT
 Easy	NNP
 Instructions	NNP
-Provided	NNP
+Provided	VBD
 To	IN
 You	PRP
 .	.
@@ -2804,7 +2804,7 @@ AK47s	NNP
 Fallen	NNP
 Into	NNP
 the	DT
-Hands	NNP
+Hands	NNS
 of	IN
 Iraq	NNP
 Terrorists	NNPS
@@ -7504,8 +7504,8 @@ man	NN
 who	WP
 once	RB
 said	VBD
-"	''
-Bring	VBG
+"	``
+Bring	VB
 it	PRP
 on	RP
 !	.
@@ -7664,7 +7664,7 @@ Order	NNP
 Executive	NNP
 Order	NNP
 :	:
-Amendments	NNP
+Amendments	NNS
 to	IN
 Executive	NNP
 Orders	NNS
@@ -8064,7 +8064,7 @@ boggles	VBZ
 the	DT
 mind	NN
 that	IN
-ANYONE	NNP
+ANYONE	NN
 can	MD
 take	VB
 at	IN
@@ -13280,8 +13280,8 @@ Tauris	NNP
 .	.
 
 THE	DT
-DAILY	NNP
-STAR	NNP
+DAILY	JJ
+STAR	NN
 publishes	VBZ
 this	DT
 commentary	NN
@@ -14282,8 +14282,8 @@ this	DT
 
 The	DT
 September	NNP
-11	NNP
-Panel	NNP
+11	CD
+Panel	NN
 will	MD
 issue	VB
 its	PRP$
@@ -18742,7 +18742,7 @@ that	DT
 look	NN
 to	TO
 bin	VB
-Laden	NNP
+Laden	JJ
 for	IN
 their	PRP$
 cues	NNS
@@ -21319,7 +21319,7 @@ makes	VBZ
 sense	NN
 .	.
 
-Acquiring	NNP
+Acquiring	VBG
 open	JJ
 source	NN
 talent	NN
