@@ -992,7 +992,7 @@ of	IN
 Columbia	NNP
 ,	,
 replacing	VBG
-Steffen	RB
+Steffen	NNP
 W.	NNP
 Graae	NNP
 .	.
@@ -1002,7 +1002,7 @@ Graae	NNP
 Bush	NNP
 also	RB
 nominated	VBD
-A.	NN
+A.	NNP
 Noel	NNP
 Anketell	NNP
 Kramer	NNP
@@ -1955,7 +1955,7 @@ turmoil	NN
 
 Then	RB
 Charles	NNP
-A.	NN
+A.	NNP
 Briggs	NNP
 came	VBD
 to	IN
@@ -2353,8 +2353,8 @@ purpose	NN
 If	IN
 I	PRP
 was	VBD
-Rummy	$
-I	NNP
+Rummy	NNP
+I	PRP
 'd	MD
 send	VB
 Posada	NNP
@@ -2419,8 +2419,8 @@ Now	RB
 that	IN
 's	VBZ
 a	DT
-post	VB
-I	NNP
+post	NN
+I	PRP
 can	MD
 relate	VB
 to	TO
@@ -2568,10 +2568,10 @@ come	VB
 back	RP
 .	.
 
-Hey	PRP
-I	NNP
+Hey	``
+I	PRP
 just	RB
-love	VB
+love	VBP
 your	PRP$
 blog	NN
 .	.
@@ -2634,12 +2634,12 @@ Like	IN
 To	IN
 Know	NNP
 How	WRB
-YOU	NNP
+YOU	PRP
 Can	MD
-Live	NNP
-In	NNP
+Live	JJ
+In	IN
 A	DT
-Beautiful	:
+Beautiful	NNP
 NEW	NNP
 House	NNP
 That	WDT
@@ -2647,14 +2647,14 @@ Is	VBZ
 Custom	NNP
 -	HYPH
 Designed	VBN
-To	TO
-YOUR	NNP
+To	IN
+YOUR	PRP$
 Specifications	NNS
 .........	:
 And	CC
 At	IN
-NO	NNP
-COST	NNP
+NO	DT
+COST	JJS
 To	IN
 You	PRP
 ?	.
@@ -2672,8 +2672,8 @@ Not	RB
 Hard	RB
 To	TO
 Do	VB
-....	NNP
-IF	NNP
+....	:
+IF	IN
 You	PRP
 Know	NNP
 HOW	NNP
@@ -2690,7 +2690,7 @@ Without	IN
 At	IN
 Least	JJS
 Taking	VBG
-A	NNP
+A	DT
 Look	VB
 .	.
 
@@ -3110,7 +3110,7 @@ to	IN
 insurgents	NNS
 .	.
 
-A	NNP
+A	DT
 NATO	NNP
 spokesman	NN
 said	VBD
@@ -3856,7 +3856,7 @@ will	MD
 ...	:
 
 CRACKDOWN	NNP
-ON	NNP
+ON	IN
 POLYGAMY	NNP
 GROUP	NNP
 
@@ -5377,10 +5377,10 @@ money	NN
 .	.
 
 That	DT
-'s	POS
-all	DT
-I	NNP
-know	NN
+'s	VBZ
+all	RB
+I	PRP
+know	VB
 ;	:
 I	PRP
 've	VBP
@@ -6119,8 +6119,8 @@ here	RB
 I	PRP
 am	VBP
 thinking	VBG
-that	WDT
-I	NNP
+that	IN
+I	PRP
 really	RB
 must	MD
 be	VB
@@ -6545,7 +6545,7 @@ Do	VBP
 you	PRP
 really	RB
 think	VBP
-GWB	CD
+GWB	NNP
 ,	,
 and	CC
 neocons	NNS
@@ -7642,7 +7642,7 @@ May	NNP
 ,	,
 2006	CD
 at	IN
-08:27:46	NNP
+08:27:46	CD
 PM	NNP
 PDT	NNP
 
@@ -7701,7 +7701,7 @@ metal	NN
 fans	NNS
 who	WP
 frequent	JJ
-RI	NNP
+RI	NN
 .	.
 
 I	PRP
@@ -8156,7 +8156,7 @@ our	PRP$
 behavior	NN
 (	(
 which	WDT
-I	NNP
+I	NN
 think	NN
 is	VBZ
 patently	RB
@@ -8492,7 +8492,7 @@ Q	NNP
 Thank	VB
 you	PRP
 --	:
-I	NNP
+I	PRP
 was	VBD
 wondering	VBG
 ,	,
@@ -8544,7 +8544,7 @@ theme	NN
 say	VBP
 ?	.
 
-"	''
+"	``
 THE	DT
 PRESIDENT	NNP
 :	:
@@ -8733,7 +8733,7 @@ he	PRP
 got	VBD
 a	DT
 --	:
-I	NNP
+I	PRP
 'm	VBP
 a	DT
 decision	NN
@@ -8880,10 +8880,10 @@ try	VBP
 to	TO
 do	VB
 ,	,
-as	RB
-best	RBS
 as	IN
-I	NNP
+best	JJS
+as	IN
+I	PRP
 possibly	RB
 can	MD
 .	.
@@ -8984,8 +8984,8 @@ has	VBZ
 a	DT
 memoir	NN
 called	VBD
-"	''
-A	NNP
+"	``
+A	DT
 Charge	NNP
 to	TO
 Keep	VB
@@ -9273,7 +9273,7 @@ according	VBG
 to	IN
 the	DT
 local	JJ
-UN	JJ
+UN	NNP
 officials	NNS
 .	.
 
@@ -13376,8 +13376,8 @@ Web	NNP
 posted	VBD
 at	IN
 :	:
-3:29	PRP
-p.m.	RB
+3:29	DT
+p.m.	NN
 EST	NNP
 (	(
 2029	NNP
@@ -13393,7 +13393,7 @@ CNN	NNP
 Texas	NNP
 Gov.	NNP
 George	NNP
-W.	NN
+W.	NNP
 Bush	NNP
 is	VBZ
 enduring	VBG
@@ -13460,7 +13460,7 @@ a	DT
 political	JJ
 reporter	NN
 for	IN
-WHDH	VB
+WHDH	NNP
 -	HYPH
 TV	NNP
 in	IN
@@ -14252,7 +14252,7 @@ and	CC
 believes	VBZ
 that	IN
 the	DT
-U.S.	NN
+U.S.	NNP
 has	VBZ
 a	DT
 vital	JJ
@@ -15835,7 +15835,7 @@ All	DT
 Things	NNS
 Considered	VBN
 (	(
-8:00	NNP
+8:00	CD
 PM	NNP
 ET	NNP
 )	)
@@ -16658,7 +16658,7 @@ Texas	NNP
 and	CC
 Washington	NNP
 ,	,
-DC	NN
+DC	NNP
 ,	,
 Mr.	NNP
 Bush	NNP
@@ -18447,7 +18447,7 @@ Ed	NNP
 Wong	NNP
 of	IN
 the	DT
-NYT	NNP
+NYT	NN
 has	VBZ
 more	JJR
 on	IN
@@ -19866,11 +19866,11 @@ Society	NNP
 in	IN
 a	DT
 press	NN
-release	VB
-titled	VBN
+release	NN
+titled	VBD
 THE	DT
 MYTHS	NNP
-OF	NNP
+OF	IN
 CHERNOBYL	NNP
 which	WDT
 contained	VBD
@@ -19963,9 +19963,9 @@ in	IN
 CHERNOBYL	NNP
 ACCIDENT	NNP
 :	:
-TEN	NNP
-YEARS	NNP
-ON	NNP
+TEN	WRB
+YEARS	NNS
+ON	IN
 
 In	IN
 the	DT
@@ -20391,8 +20391,8 @@ a	DT
 child	NN
 in	IN
 the	DT
-50's	$
-I	NNP
+50's	NNP
+I	PRP
 had	VBD
 a	DT
 lot	NN
