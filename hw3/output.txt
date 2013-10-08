@@ -2654,7 +2654,7 @@ Specifications	NNS
 And	CC
 At	IN
 NO	DT
-COST	JJS
+COST	NN
 To	IN
 You	PRP
 ?	.
@@ -2683,7 +2683,7 @@ Do	VBP
 n't	RB
 Let	VB
 This	DT
-Pass	,
+Pass	VB
 You	PRP
 By	IN
 Without	IN
@@ -2704,8 +2704,8 @@ HAVE	VBP
 To	TO
 Have	VB
 An	DT
-Income	NNP
-ABOVE	NNP
+Income	NN
+ABOVE	IN
 $	$
 21,000	CD
 ......	:
@@ -2717,7 +2717,7 @@ To	TO
 Follow	VB
 The	DT
 Easy	NNP
-Instructions	NNPS
+Instructions	NNP
 Provided	NNP
 To	IN
 You	PRP
@@ -5878,7 +5878,7 @@ dead	JJ
 ...	:
 Long	JJ
 live	JJ
-Irony	NNP
+Irony	NN
 !	.
 
 That	DT
@@ -9013,7 +9013,7 @@ in	IN
 1999	CD
 .	.
 
-Important	NNP
+Important	JJ
 news	NN
 such	JJ
 as	IN
